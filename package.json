@@ -1,0 +1,10 @@
+{
+  "name": "match-aggregator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gail <luyanggai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
