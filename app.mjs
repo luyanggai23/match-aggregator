@@ -1,4 +1,3 @@
 import { getMatchByMatchId } from './services/match-service';
+import { getSummonerBySummonerName } from './services/summoner-service';
 
-let match = getMatchByMatchId('2935232909');
-console.log(JSON.stringify(match));
